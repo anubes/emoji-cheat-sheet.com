@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExcludeLocalFilesFromBackup</key>
+	<true/>
+	<key>FESettings</key>
+	<true/>
+	<key>Language</key>
+	<string>en</string>
+	<key>MaxCacheSize</key>
+	<integer>500</integer>
+	<key>VersionUUID</key>
+	<string>70D0EDF4-ABA1-429B-B65E-25A492A79759</string>
+</dict>
+</plist>
